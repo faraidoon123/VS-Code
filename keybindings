@@ -1,0 +1,10 @@
+[
+    {
+        "key": "ctrl+alt+x",
+        "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "ctrl+k",
+        "command": "python.execInTerminal"
+    }
+]
